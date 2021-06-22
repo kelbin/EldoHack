@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (5.0.1)
+  - ZKCarousel (1.1.0)
+
+DEPENDENCIES:
+  - SnapKit
+  - ZKCarousel
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - ZKCarousel
+
+SPEC CHECKSUMS:
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  ZKCarousel: 935e0aa9beed83824588d9a82d8bafa5b6fc19db
+
+PODFILE CHECKSUM: a730cb00081eb9ab427fd55cf09bcecf1c07bfb9
+
+COCOAPODS: 1.10.1
